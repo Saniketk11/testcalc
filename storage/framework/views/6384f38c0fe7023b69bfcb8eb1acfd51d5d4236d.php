@@ -1,0 +1,1 @@
+<h2> Welcome  </h2><?php /**PATH E:\Angular\resources\views/welcome.blade.php ENDPATH**/ ?>
